@@ -4,7 +4,8 @@ Evaluation of Treatment Effect with Sequential Neural Network
 This network uses data of 116 patients to predict two values of "Two years follow up" and "outcome".
 
 To solve this problem, I used two sequential networks, one as a classifier and one as a regression.
-I used 90% of the data for training, and 10% for validation of the models.
+I used 90% of the data for training, and 10% for validation of the models. 
+- I used "Keras" module for designing networks.
 
 ### Classifier
 
